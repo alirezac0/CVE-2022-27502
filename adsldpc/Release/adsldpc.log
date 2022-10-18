@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\Test-AV\source\repos\adsldpc\Release\adsldpc.lib and object C:\Users\Test-AV\source\repos\adsldpc\Release\adsldpc.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  adsldpc.vcxproj -> C:\Users\Test-AV\source\repos\adsldpc\Release\adsldpc.dll
